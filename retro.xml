@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion>
+    <item>
+        <nombre>Commodore 64</nombre>
+        <tipo>Hardware</tipo>
+        <anio>1982</anio>
+        <estado>5</estado>
+        <serial>C64-001</serial>
+        <descripcion>Ordenador clásico</descripcion>
+    </item>
+    
+    <item>
+        <nombre>ZX Spectrum</nombre>
+        <tipo>Hardware</tipo>
+        <anio>1982</anio>
+        <estado>4</estado>
+        <serial>ZX-123</serial>
+        <descripcion>Microordenador británico</descripcion>
+    </item>
+    
+    <item>
+        <nombre>Atari 2600</nombre>
+        <tipo>Hardware</tipo>
+        <anio>1977</anio>
+        <estado>5</estado>
+        <serial>AT-2600</serial>
+        <descripcion>Consola retro</descripcion>
+    </item>
+</coleccion>
