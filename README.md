@@ -30,20 +30,13 @@ Este sistema no es una web estática, sino un sistema basado en datos donde:
 
 ## 3. Estructura del proyecto
 retro-gaming-vault/
+retro.xml # Datos del museo
+retro.xsd # Esquema de validación
 │
-├── data/
-│ ├── retro.xml # Datos del museo
-│ └── retro.xsd # Esquema de validación
-│
-├── xquery/
-│ ├── consulta1.xq # Hardware antes de 1985
-│ ├── consulta2.xq # Objetos en estado 5
-│ └── consulta3.xq # Certificado por serial
-│
-├── output/
-│ ├── catalogo.html
-│ ├── menta.html
-│ └── certificado.html
+xquery/
+consulta1.xq # Hardware antes de 1985
+consulta2.xq # Objetos en estado 5
+consulta3.xq # Certificado por serial
 
 ---
 
